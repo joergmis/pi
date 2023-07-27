@@ -24,6 +24,7 @@ A platform to experiment with yocto and and bitbake, targeting a raspberry pi.
 - [yocto for pi 3](https://raspinterest.wordpress.com/2016/11/30/yocto-project-on-raspberry-pi-3/)
 - [building a linux distro for pi 3](https://www.lysator.liu.se/inbyggda-hack/pi/)
 - [ready set yocto - unofficial guide](https://github.com/jynik/ready-set-yocto)
+- [Hacking RB PI 4 using UART](https://lancesimms.com/RaspberryPi/HackingRaspberryPi4WithYocto_Part1.html)
 
 ### Recipes
 
